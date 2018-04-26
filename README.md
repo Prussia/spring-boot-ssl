@@ -1,4 +1,6 @@
 spring-boot-ssl [![build](https://travis-ci.org/daggerok/spring-boot-ssl.svg?branch=master)](https://travis-ci.org/daggerok/spring-boot-ssl)
+
+https://forums.docker.com/t/get-ssl-certificate-for-use-in-docker-container/42069/3
 ===============
 
 This project contains simple spring-boot https example
